@@ -1,5 +1,6 @@
 # Analytics_Project
 Accelerating Sales Growth Through Data Analysis
+---
 
 ## Table of Contents
   - [Project Overview](#project-overview)
@@ -13,6 +14,7 @@ Accelerating Sales Growth Through Data Analysis
   - [References](#references)
 
 ### Project Overview
+---
 
 This project aims to analyze sales data from an ERP system in the pharmaceutical industry to drive growth and optimize the supply chain. By leveraging data analytics techniques and visualization tools, we aim to identify patterns, trends, and insights from various data sources
 
@@ -42,6 +44,8 @@ Creating report & Presentation: PowerPoint
      - Who are the top 10 weekly customers?
      - Which region has the highest mumber of buying customers
      - What's the average order value?
+       ![Screenshot 2024-01-24 091837](https://github.com/Deeruth/Analytics_Project/assets/101389506/f3bdfdb2-bab0-486c-8050-8b9ca5db01f2)
+
 4. Visualization and Dashboard Creation
 5. Presentation Preparation
 
@@ -54,7 +58,7 @@ Include some interesting code/features I worked with;
 ### Results
 The analysis results are summarised as follows:
 
-1. Sales Trends: Through exploratory data analysis, we identified seasonal fluctuations and trends in sales across different regions and product categories in August.
+1. Sales Trends: Through exploratory data analysis, we identified seasonal fluctuations and trends in sales across different regions and product categories in November.
 2. Customer Behavior: Analysis revealed patterns in customer purchasing behavior, such as preferred products, order frequency, and order size.
 3. Product Performance: Certain products showed consistently high sales, while others exhibited potential for improvement.
 4. Regional Variances: Sales performance varied significantly across different regions, indicating opportunities for targeted marketing and sales strategies
@@ -82,5 +86,19 @@ The analysis results are summarised as follows:
 ### References
 1. SQL for Business
 2. Microsoft Power BI
+
+😄
+💻
+|Heading1|Heading2|
+|--------|--------|
+|Content|Contents2|
+|PowerBI|SQL|
+
+`column_1`
+
+**bold**
+
+*italic*
+
 
 
