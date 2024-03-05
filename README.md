@@ -38,11 +38,20 @@ Creating report & Presentation: PowerPoint
 2. Exploratory Data Analysis
    EDA answered the following:
      - What is the overall sales trend per week and month?
+       ![image](https://github.com/Deeruth/Analytics_Project/assets/101389506/81acc7f0-9eda-4f6f-ad5f-3f135f43ce88)
+
      - What's the number of buying customer in a week?
+      ![image](https://github.com/Deeruth/Analytics_Project/assets/101389506/df7404d7-f749-4c1e-a500-efd110e12510)
+
      - Which products and category are top sellers weekly?
-     - What are peak sales periods?
+       ![image](https://github.com/Deeruth/Analytics_Project/assets/101389506/69d4129b-2cf4-4911-b265-0cfbfbc78068)
+
+
      - Who are the top 10 weekly customers?
+
      - Which region has the highest mumber of buying customers
+       ![image](https://github.com/Deeruth/Analytics_Project/assets/101389506/20b8723f-f869-46b2-ab01-1fc207724143)
+
      - What's the average order value?
        ![Screenshot 2024-01-24 091837](https://github.com/Deeruth/Analytics_Project/assets/101389506/f3bdfdb2-bab0-486c-8050-8b9ca5db01f2)
 
